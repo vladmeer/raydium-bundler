@@ -2,6 +2,8 @@
 Solana Raydium Bundler: Raydium Bundler with 21 wallets
 
 ## Contact 
+### Telegram: [Vladmeer](https://t.me/vladmeer67)   
+https://t.me/vladmeer67
 
 ## Overview
 This bundler leverages Jito to streamline Solana transactions by allowing you to batch up to 4 transactions in a single bundle. It enables seamless token creation, buying, and selling across 21 wallets, all within a few steps.
