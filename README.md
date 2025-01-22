@@ -16,7 +16,7 @@ Start by creating a new token along with its metadata. This is the foundation fo
 Set up a market for your token so that you can start trading.
 
 3. Generate Wallets for Pool Purchases
-Create multiple wallets (up to 21) that will participate in buying tokens from the liquidity pool.
+Create multiple wallets (up to 21) that will participate in buying tokens from the liquidity pool. 
 
 4. Set Up the Lookup Table
 Establish a Lookup Table to efficiently track transaction data.
