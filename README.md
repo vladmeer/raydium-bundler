@@ -33,8 +33,9 @@ Bundle the creation of the pool and up to 3 buying transactions from the 21 wall
 7. Revoke Authorities & Burn Liquidity Pool
 After completing the buy transactions, revoke mint and freeze authorities, and burn the liquidity pool (LP) tokens.
 
-8. Sell Tokens in One Go
+
+9. Sell Tokens in One Go
 Sell all tokens at once using a bundle, across all 21 wallets, whenever you're ready.
 
-9. Gather SOL from All Wallets
+10. Gather SOL from All Wallets
 Finally, collect the SOL from all 21 wallets after the bundle’s buy and sell actions are complete.
