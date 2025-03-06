@@ -38,4 +38,4 @@ After completing the buy transactions, revoke mint and freeze authorities, and b
 Sell all tokens at once using a bundle, across all 21 wallets, whenever you're ready.
 
 10. Gather SOL from All Wallets
-Finally, collect the SOL from all 21 wallets after the bundle’s buy and sell actions are complete.
+Finally, collect the SOL from all 21 wallets after the bundle’s buy and sell actions are complete. 
